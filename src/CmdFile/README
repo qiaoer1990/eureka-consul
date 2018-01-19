@@ -1,0 +1,2 @@
+使用cmd运行 consul.exe agent -dev  开启consul服务
+启动项目 访问localhost:8500
